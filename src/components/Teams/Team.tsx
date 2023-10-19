@@ -15,7 +15,7 @@ export default function Team({ name, ach, pos, desc, current }: Props) {
     <Box
       role={"group"}
       p={6}
-      maxW={"330px"}
+      maxW={{ base: "full", md: "330px" }}
       w={"full"}
       // bg={useColorModeValue("white", "gray.800")}
       // boxShadow={"2xl"}

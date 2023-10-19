@@ -18,7 +18,7 @@ export default [
   },
   {
     name: "Abdulkadir Abubakar",
-    ach: "(Ph.D. Computer Science, USM, Malaysia",
+    ach: "Ph.D. Computer Science, USM, Malaysia",
     pos: "Technical Consultant/System Analysis",
     desc: `The Programmer and Engineer who has over decade of experience in System Analysis and design,
     Software Development, Hardware Maintenance and Troubleshooting and Network Configurations`,
@@ -48,6 +48,6 @@ export default [
     pos: "Business Development Executive",
     desc: `A business consultant with extensive skills and expertise in the field of management and strategy,
     market research and analysis, project development and corporate finance`,
-    current: "Coprimw",
+    current: "Coprime",
   },
 ];
